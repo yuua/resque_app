@@ -1,0 +1,3 @@
+# envがstagingの場合は game-idの末尾に -devをつけること
+ids:
+  - hogehoge

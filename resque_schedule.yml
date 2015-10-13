@@ -1,0 +1,7 @@
+yesterday:
+  every:
+    - "1d"
+    - :first_in: '1d'
+  class: "Yesterday"
+  queue: yesterday
+  description: "昨日の日時を算出"
